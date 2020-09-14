@@ -1,2 +1,3 @@
-# Space-Policy-Ontology
-An ontology providing annotations and representations for the discipline of space policy
+# The Space Policy & Law Ontology
+
+An ontology providing formal representations, metadata, and formal vocabularies for the discipline of space policy and law.
