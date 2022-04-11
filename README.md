@@ -2,12 +2,15 @@
 * _Alternate title_: The Astronautical Policy and Law Ontology (APoLO)
 * _Alternate title_: The Spaceflight Policy and Law Ontology (SPoLO)
 
-An ontology providing formal representations, metadata, and formal vocabularies for the discipline of space policy and law.
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+An ontology providing formal representations, metadata, and formal vocabularies for the disciplines of space policy and space law.
+
+## Contribute - How you can help
+As an unfunded project, formal support is needed: funding and other resources, employer support, etc.  
+* If you find value in my work, please [donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 
 ## Contact
-rrovetto(at)terpalum.umd.edu
+[https://ontospace.wordpress.com/contact](https://ontospace.wordpress.com/contact)
 
 ## Warranty
 No warranty. Presented "AS IS". Author and copyright holder is not liable.
