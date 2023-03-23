@@ -4,13 +4,16 @@ An ontology providing formal representations, metadata, and terminology for the 
 _Alternate title_: The Astronautical Policy and Law Ontology (APoLO), The Spaceflight Policy and Law Ontology (SPoLO)
 
 ## Description
+_See also the Ontology Requirements Specification Document (purchase links coming soon) for APoLO, as well as for the Space Law Ontology which was build separately with a confined scope to Space Law._
 
 ### Scope
+APoLO captures concepts and entities from space policy and space law communities, to the extent that they can or should be contained in a single ontology. 
+Pending further development, this project may opt for distinct ontologies: one for space policy, and one for space law. To date, a sepearte Space Law ontology was built using APoLO as a seed, under a work contract with the Author.
 
 ### Purpose
-
-
-
+* To support policy and law research and activities in the space domain
+* To explore content search and retrieval of space policy and law data and documents
+* ... 
 
 ### Status
 * In-progress as circumstances permit. Subject to revision. 
